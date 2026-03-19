@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ignited -イグナイテッド-",
+  "base_artist": "T.M.Revolution",
+  "createdAt": "2026-03-19T15:26:57.720885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ignited -イグナイテッド-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/01_ignited_-イグナイテッド-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ignited –イグナイテッド–",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/02_ignited_–イグナイテッド–_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ignited",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/03_Ignited_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ignited",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/04_Ignited_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ignited -イグナイテッド-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/05_ignited_-イグナイテッド-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ignited",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/06_Ignited_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ignited",
+      "artist": "tmrevolution",
+      "has_synced": true,
+      "path": "select/07_ignited_tmrevolution.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ignited -イグナイテッド-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/08_ignited_-イグナイテッド-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ignited",
+      "artist": "tmrevolution",
+      "has_synced": true,
+      "path": "select/09_ignited_tmrevolution.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ignited - イグナイテッド",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/10_Ignited_-_イグナイテッド_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ignited-イグナイテッド-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/11_ignited-イグナイテッド-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are Ignited",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/12_We_Are_Ignited_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beyond the BLADE (IGNITED Arrangement)",
+      "artist": "風鳴翼 (水樹奈々)",
+      "has_synced": true,
+      "path": "select/13_Beyond_the_BLADE_(IGNITED_Arrangement)_風鳴翼_(水樹奈々).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beyond the BLADE (IGNITED arrangement)",
+      "artist": "Kazanari Tsubasa (CV: Mizuki Nana)",
+      "has_synced": true,
+      "path": "select/14_Beyond_the_BLADE_(IGNITED_arrangement)_Kazanari_Tsubasa_(CV__Mizuki_Nana).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ignited -イグナイテッド-",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_01_ignited_-イグナイテッド-_T.M.Revolution.txt"
+    }
+  ]
+}
